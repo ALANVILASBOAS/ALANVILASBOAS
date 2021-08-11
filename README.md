@@ -1,5 +1,4 @@
 - Olá, td bem?! 👋
-- Baiano morando em são paulo a 5 anos.
 - Gosto de aprender, codificar, trabalhar e chá de camomila! 🍵
 - No momento, estudando Typescript 🌱
 
