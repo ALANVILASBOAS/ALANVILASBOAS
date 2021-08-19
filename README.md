@@ -1,6 +1,5 @@
 - Olá, td bem?! 👋
 - Gosto de aprender, codificar, trabalhar e chá de camomila! 🍵
-- No momento, estudando Typescript 🌱
 
 <hr>
  <div>
