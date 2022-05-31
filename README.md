@@ -8,6 +8,7 @@
 - ☀ Quero entregar valor, fazer a diferença e ter meu lugar ao sol! 
 <br><br>
 </p>
+</p>
 <hr>
 
  <div>
