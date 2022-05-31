@@ -1,6 +1,6 @@
 <p >
 <img align="right" alt="viva-a-equipe" src="https://media.giphy.com/media/l3q2Wl7Wpz09Z5hfi/giphy.gif" width="160" height="160">
- 
+ <br>
 
 - 👋 Olá, td bem?!  
 - ☕ Gosto de aprender, codar, trabalhar e café (quero caféé, quero caféé)! 
@@ -8,7 +8,7 @@
 - ☀ Quero entregar valor, fazer a diferença e ter meu lugar ao sol! 
 <br><br>
 </p>
-</p>
+
 <hr>
 
  <div>
