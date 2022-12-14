@@ -9,7 +9,6 @@
 <br><br>
 </p>
 
-Obs.: Perfil em manutenção por conta das novas atualizações do Github :)
 <hr>
 
  <div>
