@@ -18,6 +18,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+ <img align="right" alt="alan-arigato" src="https://media.giphy.com/media/rsRISCwRoD6mjORreG/giphy.gif">
   <img align="center" alt="alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alan-Tp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
@@ -26,11 +27,8 @@
   <img align="center" alt="alan-Sp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="alan-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  
-
-
-
- 
-  <img align="right" alt="alan-arigato" src="https://media.giphy.com/media/rsRISCwRoD6mjORreG/giphy.gif">
+  
+ <br><br>
 </div>
   <hr>
   <div>
